@@ -55,7 +55,7 @@
     "recharts": "^2.7.1",
     "sonner": "^0.5.0",
     "tailwind-merge": "^1.13.2",
-    "tailwindcss-animate": "^1.0.6",
+    "tailwind-lines-clamp": "^0.4.*",
     "vaul": "^0.6.8",
     "zod": "^3.21.4"
   },
